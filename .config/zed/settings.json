@@ -9,10 +9,10 @@
   },
 
   // Font settings
-  "buffer_font_family": "CaskaydiaCove Nerd Font",
+  "buffer_font_family": "Monocraft Nerd Font",
   "buffer_font_features": { "calt": false },
   "ui_font_family": "Inter Nerd Font Propo",
-  "font_family": "CaskaydiaCove Nerd Font",
+  "font_family": "Monocraft Nerd Font",
 
   // Vim Settings
   "vim_mode": true,
@@ -20,5 +20,13 @@
 
   // Saving settings
   "autosave": "on_focus_change",
-  "format_on_save": "off"
+  "format_on_save": "off",
+
+  // Others
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
+  "soft_wrap": "prefer_line"
 }
+
