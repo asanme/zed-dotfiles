@@ -4,15 +4,18 @@
   "buffer_font_size": 18,
   "theme": {
     "mode": "system",
-    "light": "Summercamp",
+    "light": "Andromeda",
     "dark": "One Dark"
   },
 
   // Font settings
-  "buffer_font_family": "Monocraft Nerd Font",
-  "buffer_font_features": { "calt": false },
   "ui_font_family": "Inter Nerd Font Propo",
+  "buffer_font_features": { "calt": false },
+  "buffer_font_family": "Monocraft Nerd Font",
   "font_family": "Monocraft Nerd Font",
+  // Other font
+  // "buffer_font_family": "CaskaydiaCove Nerd Font",
+  // "font_family": "CaskaydiaCove Nerd Font",
 
   // Vim Settings
   "vim_mode": true,
@@ -27,6 +30,6 @@
     "diagnostics": false,
     "metrics": false
   },
-  "soft_wrap": "prefer_line"
+  "soft_wrap": "editor_width"
 }
 
